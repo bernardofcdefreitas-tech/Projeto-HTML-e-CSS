@@ -1,0 +1,19 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 5;
+}
+
+nav {
+  
+    display: flex;
+gap: 16px;
+padding: 8px;
+border-radius: 8px;
+}
