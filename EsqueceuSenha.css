@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalhes</title>
+<link rel="stylesheet" href="Detalhes.css">
+<link rel="stylesheet" href="../Global.css">
+
+</head>
+<body>
+    Zé do Detalhe
+     <a href="../Cadastro/Cadastro.html">Cadastro</a>
+        <a href="../EsqueceuSenha/EsqueceuSenha.html">EsqueceuSenha</a>
+        <a href="../Listagem/Listagem.html">Listagem</a>
+        <a href="../Login/Login.html">Login</a>
+        <a href="../Resumo/Resumo.html">Resumo</a>
+        <a href="../index.html">Inicio</a>
+</body>
+</html>

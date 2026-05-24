@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title> Esqueceu Senha</title>
+    <link rel="stylesheet" href="EsqueceuSenha.css">
+    <link rel="stylesheet" href="../Global.css">
+
+</head>
+
+<body>
+  <div class="conteiner">
+        <header class="header">
+           <h1> Redefina Sua Senha e <br> acesse sua conta Lacoste</h1>
+        </header>
+
+        <nav class="nav-1">
+            <a href="../Detalhes/Detalhes.html">Detalhes</a>
+            <a href="../Login/Login.html">Login</a>
+            <a href="../Listagem/Listagem.html">Listagem</a>
+            <a class="cadastro" href="./Cadastro/Cadastro.html">Cadastro</a> 
+            <a href="../Resumo/Resumo.html">Resumo</a>
+            <a href="../index.html">Inicio</a>
+        </nav>
+
+
+    </div>
+
+    <div class="div-cadastro">
+        <div class="div-email">
+            <label>E-mail:</label>
+            <input type="email" placeholder="Digite Seu E-mail">
+        </div>
+
+        <div class="div-senha">
+            <label>Senha</label>
+            <input type="text" placeholder="Digite Sua Senha">
+        </div>
+
+    <div class="div-confirme-sua-senha">
+            <label>Confirme Sua Senha</label>
+            <input type="text" placeholder="Confirme Sua Senha" class="input-confirme-sua-senha">
+        </div>
+
+        <div class="div-envie-seus-dados">
+            <button class="button-envie-seus-dados">Envie Seus Dados</button>
+
+        </div>
+
+    
+    </div>
+
+    <div id="img-logo"></div>
+</body>
+</body>
+
+</html>
